@@ -1,0 +1,29 @@
+semi-join [49 1]:
+
+| :ticker |
+|---------|
+|    ACIC |
+|    BABA |
+|    BEAM |
+|     BLI |
+|    CDXS |
+|    CLLS |
+|    CMLF |
+|    COIN |
+|    CRSP |
+|     DDD |
+|    DOCU |
+|    EDIT |
+|    EXAS |
+|    GBTC |
+|    IRDM |
+|    ISRG |
+|    MTLS |
+|     NIU |
+|    NNDM |
+|    NTLA |
+|    NVDA |
+|    NVTA |
+|    ONVO |
+|    PACB |
+|    PATH |
